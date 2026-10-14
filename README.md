@@ -194,9 +194,7 @@ This project demonstrates how machine learning can be used to predict sediment p
 
 ## References
 
-Add the complete citation and link for the reference research paper and the actual dataset source used in the project.
-
-Do not claim that the reconstructed dataset is the original research dataset unless this has been verified.
+reference paper - https://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26391077.pdf
 
 ## License
 
