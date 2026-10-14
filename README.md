@@ -192,16 +192,6 @@ pip install -r requirements.txt
 
 This project demonstrates how machine learning can be used to predict sediment particle-size characteristics. Random Forest and SVR provide baseline comparisons, while XGBoost extends the evaluation with an additional model. Comparing results with the reference study helps assess model performance and highlights the importance of consistent datasets and experimental procedures.
 
-## Team and Academic Information
-
-**Project Title:** Machine Learning for Predicting Sediment Particle Size Distributions
-
-**Team Members:** Add team member names here.
-
-**Institution:** Add institution name here.
-
-**Course:** Add course name here.
-
 ## References
 
 Add the complete citation and link for the reference research paper and the actual dataset source used in the project.
