@@ -195,7 +195,3 @@ This project demonstrates how machine learning can be used to predict sediment p
 ## References
 
 reference paper - https://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26391077.pdf
-
-## License
-
-No license has been specified for this project. Add an appropriate license if the project authors decide to publish the code and data under one.
